@@ -17,10 +17,18 @@
     z-index: 1300;
 
 
-.centermenu
-   margin: auto;
-  width: 50%;
-  border: 3px solid green;
-  padding: 10px;
+
+.centermenu {
+  font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  outline: dashed 1px black;
+}
+
+p {
+  /* Center horizontally*/
+  text-align: center;
 }
     

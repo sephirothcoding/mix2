@@ -32,3 +32,9 @@ p {
   text-align: center;
 }
     
+    
+        #centermenu{
+        margin: auto;
+        max-width: 1000px; 
+}
+    
